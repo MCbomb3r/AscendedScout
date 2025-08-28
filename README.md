@@ -37,8 +37,8 @@ pip install opencv-python numpy pytesseract mss
    ```bash
    git clone https://github.com/MCbomb3r/AscendedScout.git
    cd AscendedScout
-
-
+   ```
+   
 2. **Install Python dependencies**:
    ```bash
    pip install -r requirements.txt
