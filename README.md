@@ -2,7 +2,7 @@
 
 **Real-time OCR monitoring tool for ARK: Survival Ascended**
 
-AscendedScout is a Python-based screen monitoring application that uses OCR (Optical Character Recognition) to automatically detect and log player activities and structure destruction events in ARK: Survival Ascended. Perfect for server tribes who want to keep track of what's happening on the server or to not get offline raid as soon as you disconnect.
+AscendedScout is a Python-based screen monitoring application that uses OCR (Optical Character Recognition) to automatically detect and log player activities and structure destruction events in ARK: Survival Ascended. Perfect for server tribes who want to keep track of what's happening on the server or to not get offline raid.
 
 ## ✨ Features
 
