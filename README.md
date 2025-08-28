@@ -119,7 +119,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 - Ensure ARK is running in windowed or borderless windowed mode
 - Check that Tesseract is properly installed and in PATH
 - Verify screen coordinates match your display setup
-- Make sure the game UI scale settings (Join Notifications) is on see the picture below
+- Make sure the game UI scale settings (Join Notifications) is set to **ON** e.g picture below
 <img width="1445" height="1079" alt="image" src="https://github.com/user-attachments/assets/6d7d1740-e589-40b4-961d-a58b08c2892a" />
 
 **High CPU usage**:
