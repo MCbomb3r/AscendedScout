@@ -77,7 +77,7 @@ ascendedscout/
 ├── logs/                     # Generated log files
 │   ├── tribemembers_log.txt  # Tribe member events
 │   ├── players_log.txt       # Player join/leave events
-│   └── center_log.txt        # Structure destruction events
+│   └── center_log.txt        # Tribelog Structure destruction events
 └── README.md
 ```
 
