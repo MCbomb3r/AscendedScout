@@ -125,9 +125,9 @@ AscendedScout/
 ### Screen Regions
 The script monitors two specific areas of your screen:
 
-- **Top Region** (`mon_top`): Player join/leave notifications
+- **Top Region** (`top_zone`): Player join/leave notifications
   - Default: `{'top': 0, 'left': 750, 'width': 550, 'height': 100}`
-- **Center Region** (`mon_center`): Structure destruction messages
+- **Center Region** (`center_zone`): Structure destruction messages
   - Default: `{'top': 211, 'left': 772, 'width': 374, 'height': 539}`
 
 ### Tesseract Path
