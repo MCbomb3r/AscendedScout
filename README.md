@@ -1,4 +1,4 @@
-# AscendedScout 🦖
+# 🦖 AscendedScout 🦖
 
 **Real-time OCR monitoring tool for ARK: Survival Ascended with Discord Bot integration**
 
