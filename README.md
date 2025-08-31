@@ -168,11 +168,12 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 - Verify screen coordinates match your display setup
 - Try adjusting game UI scale settings
 
-**High CPU usage**:
+**CPU usage**:
 test done on intel i5-14600k
 CPU: ~11–12% on average (peaks up to ~20%), RAM: ~81 MB average (74 MB idle, up to ~86 MB peak), Threads: ~55 threads in active mode (32 idle)
 Disk I/O: Read: ~50–200 KB/s, Write: ~100–400 KB/s during active logging
 
+**If you experience high  CPU usage**:
 - Increase the sleep interval in the main loop if it's too much for your CPU(default: 1 second)
 - Reduce monitoring region sizes if possible
 
