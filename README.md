@@ -8,6 +8,10 @@ AscendedScout is a Python-based screen monitoring application that uses OCR (Opt
 
 [![▶️ Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=-mQdloW0OS4)
 
+## Support
+This project is MIT and free. If it saves your base one night, you can
+[buy me a coffee](https://buymeacoffee.com/aminechadjaa) ☕. Thanks!
+
 ## ✨ Features
 
 ### Core OCR Monitoring
@@ -235,7 +239,3 @@ This tool is designed for monitoring purposes and should be used in accordance w
 **Made with ❤️ for the ARK community**
 
 *Star ⭐ this repository if you find it useful!*
-
-## Support
-This project is MIT and free. If it saves your base one night, you can
-[buy me a coffee](https://buymeacoffee.com/aminechadjaa) ☕. Thanks!
