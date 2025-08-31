@@ -169,7 +169,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 - Try adjusting game UI scale settings
 
 **CPU usage**:
-test done on intel i5-14600k
+*test done on intel i5-14600k*
 CPU: ~11–12% on average (peaks up to ~20%), RAM: ~81 MB average (74 MB idle, up to ~86 MB peak), Threads: ~55 threads in active mode (32 idle)
 Disk I/O: Read: ~50–200 KB/s, Write: ~100–400 KB/s during active logging
 
