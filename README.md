@@ -175,7 +175,7 @@ Disk I/O: Read: ~50–200 KB/s, Write: ~100–400 KB/s during active logging
 
 **If you experience high  CPU usage**:
 - Increase the sleep interval in the main loop if it's too much for your CPU(default: 1 second)
-- Reduce monitoring region sizes if possible
+- Reduce monitoring region sizes if possible (center_zone)
 
 **False positives/negatives**:
 - Check if game UI elements are overlapping monitored regions
